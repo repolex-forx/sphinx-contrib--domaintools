@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "domaintools",
+  "versions": [
+    {
+      "commit": "cc6a5dcb3204325f52d160a0da7e097f3a825c8c",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:23:23.306858+00:00"
+    }
+  ]
+}
